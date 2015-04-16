@@ -4,8 +4,30 @@
 <Title> Two Methods </title>
 </head>
 <body>
+  <h1 align="center"> Making a website </h1>
+  <h3> Method 1 </h3>
+  <a href="htdocs/index-FW J.html"> Click here to view my Index Fireworks </a>
+</br>
+<h3> Method 2 </h3>
+<a href="htdocs/index-DW J.html"> Click here to view my Index Dreamweaver </a>
 
+<p> The strengths of using Fireworks </p>
+<ul>
+  <li> Easier for image related work. Such as size, format, pixel, blur, etc </li>
+  <li> Different layers can be hidden or shown- then locked for being able to edit easily </li>
+  <li> Different parts of your work can be saved/published seperately. For example, you can make buttons, but then just save the images for the buttons, boxes, or from a seperate layer. </li>
+  <li> Can crop/resize/edit images on the same software in the photo's respective file rather than going back to Fireworks if this process needs to be done when using Dreamweaver </li>
+  <li> Better for coordinating the layout of the whole page (spacing/alignment). </li>
+</ul>
 
-
+<p> The strengths of using Dreamweaver </p>
+<ul>
+  <li> Easier for CSS/styling </li>
+  <li> Allows users to drag images directly from the list of files in the folder on the side </li>
+  <li> Fireworks doesn't work well for printing your designs. Since the dots.per.inch is relatively lower. (Even though we learnt to change it, we dont really do it), the images come out a little bitmapped. </li>
+  <li> Can change CSS altogether as a class/tag/div using RULE: all titles had the same properties by adding the same rule to each AP div </li>
+  <li> Semi-automatically writes codes for you </li>
+  <li> Editable code on the side - Split screen mode --> makes it easier to effect changes </li>
+</ul>
 </body>
 </html>
